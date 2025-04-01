@@ -33,7 +33,7 @@ python colorful_word_sorter.py
 ### Step 1: Install PyInstaller
 pip install pyinstaller
 ### Step 2: Create the Executable
-pyinstaller --onefile --windowed colorful_word_sorter.py
+pyinstaller --onefile --windowed alphabeticalwordsorter.py
 ### Step 3: Locate and Run the Executable
 #### On Mac/Linux:
 cd dist
