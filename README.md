@@ -34,13 +34,7 @@ python3 alphabeticalwordsorter.py
 pip install pyinstaller
 ### Step 2: Create the Executable
 pyinstaller --onefile --windowed alphabeticalwordsorter.py
-### Step 3: Locate and Run the Executable
-#### On Mac/Linux:
-cd dist
-./alphabeticalwordsorter.py
-#### On Windows:
-cd dist
-./alphabeticalwordsorter.py
+#### The app will be in the alphabeticalwordsorter/dist
 # Contributing
 
 ##Contributions are welcome! If you would like to enhance the project or fix issues, please fork the repository and open a pull request with your changes.
