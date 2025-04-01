@@ -39,5 +39,4 @@ pyinstaller --onefile --windowed alphabeticalwordsorter.py
 
 ##Contributions are welcome! If you would like to enhance the project or fix issues, please fork the repository and open a pull request with your changes.
 ### This project is licensed under the MIT License.
-
-
+#### Made with the help of Chatgpt
