@@ -28,7 +28,7 @@ git clone https://github.com/kkyian/Alphabetical-Word-Sorter.git
 cd Alphabetical-Word-Sorter
 # Running the Application
 ## Run the application with:
-python colorful_word_sorter.py
+python3 alphabeticalwordsorter.py
 ## If you want it to be a real application:
 ### Step 1: Install PyInstaller
 pip install pyinstaller
@@ -37,10 +37,10 @@ pyinstaller --onefile --windowed alphabeticalwordsorter.py
 ### Step 3: Locate and Run the Executable
 #### On Mac/Linux:
 cd dist
-./colorful_word_sorter
+./alphabeticalwordsorter.py
 #### On Windows:
 cd dist
-./colorful_word_sorter
+./alphabeticalwordsorter.py
 # Contributing
 
 ##Contributions are welcome! If you would like to enhance the project or fix issues, please fork the repository and open a pull request with your changes.
